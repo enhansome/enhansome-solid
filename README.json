@@ -1,0 +1,379 @@
+{
+  "items": [
+    {
+      "description": "Solid (derived from \"Social Linked Data\") is a set of conventions and tools for building decentralized social apps based on Linked Data principles. It's modular, extensible, and follows existing W3C standards and protocols. \"Solid is a platform, built using the existing web. It gives every user a choice about where data is stored, which specific people and groups can access select elements, and which apps you use. - It allows you, your family and colleagues, to link and share data with anyone. - It allows people to look at the same data with different apps at the same time.\" Read more of Tim's Open Letter to the community about Solid and Inrupt.",
+      "items": [],
+      "title": "About Solid"
+    },
+    {
+      "description": "Docs",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Solid Github",
+          "description": "- Re-decentralizing the web. (project directory)",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "HTML",
+            "last_commit": "2022-08-24T14:54:37Z",
+            "owner": "solid",
+            "repo": "solid",
+            "stars": 8095
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Solid Specs",
+          "description": "- The Solid spec and architecture.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": null,
+            "last_commit": "2021-12-02T13:41:58Z",
+            "owner": "solid",
+            "repo": "solid-spec",
+            "stars": 1139
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Linked Data API",
+          "description": "- Docs for the rdflib.js Linked Data API.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-08-10T23:11:23Z",
+            "owner": "linkeddata",
+            "repo": "rdflib.js",
+            "stars": 592
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Data Browser Userguide",
+          "description": "- Userguide for Solid's default data browser.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2022-11-19T14:43:23Z",
+            "owner": "SolidOS",
+            "repo": "userguide",
+            "stars": 396
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Solid MIT",
+          "description": "- What is Solid?",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "CSS",
+            "last_commit": "2022-07-06T04:11:39Z",
+            "owner": "solid",
+            "repo": "solid.mit.edu",
+            "stars": 20
+          }
+        }
+      ],
+      "title": "Learning Resources"
+    },
+    {
+      "description": "Open Source",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Solid's Node Server",
+          "description": "- Solid server on top of the file-system in NodeJS.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-08T16:33:39Z",
+            "owner": "nodeSolidServer",
+            "repo": "node-solid-server",
+            "stars": 1796
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Linked Data API",
+          "description": "- the Linked Data API for JavaScript.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-08-10T23:11:23Z",
+            "owner": "linkeddata",
+            "repo": "rdflib.js",
+            "stars": 592
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Solid Panes",
+          "description": "- A set of core solid-compatible apps based on solid-ui.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-11T02:08:24Z",
+            "owner": "SolidOS",
+            "repo": "solid-panes",
+            "stars": 106
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Solid File Client",
+          "description": "- Javascript library for creating and managing files & folders in Solid data stores.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-03-19T20:57:32Z",
+            "owner": "jeff-zucker",
+            "repo": "solid-file-client",
+            "stars": 63
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Safe Network Backend",
+          "description": "- Safe Network backend for Solid apps.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-03-02T00:32:10Z",
+            "owner": "happybeing",
+            "repo": "safenetwork-webapi",
+            "stars": 13
+          }
+        }
+      ],
+      "title": "List of Software"
+    },
+    {
+      "description": "Apps",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Solid Chess",
+          "description": "- Decentralized chess app build on top of Solid. | Live",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2019-03-24T13:58:42Z",
+            "owner": "pheyvaer",
+            "repo": "solid-chess",
+            "stars": 52
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MarkBook.org",
+          "description": "- Bookmarking app using Solid. | Live | Userguide",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-01-22T18:54:57Z",
+            "owner": "mark-book",
+            "repo": "markbook",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RC LogBook",
+          "description": "- Register your radio controlled models and flights. | Live",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-12-05T11:19:07Z",
+            "owner": "JornWildt",
+            "repo": "SolidRC",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "List of Projects"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "JSON-LD Playground",
+          "description": "A test area for JSON-LD markup using jsonld.js |",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-03-04T16:43:23Z",
+            "owner": "digitalbazaar",
+            "repo": "jsonld.js",
+            "stars": 1813
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Trellis LDP",
+          "description": "- Trellis is a platform for building scalable Linked Data applications.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2025-05-19T07:14:02Z",
+            "owner": "trellis-ldp",
+            "repo": "trellis",
+            "stars": 110
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LDflex Playground",
+          "description": "- Solid LDflex playground. | Live",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-12-21T09:19:35Z",
+            "owner": "LDflex",
+            "repo": "Solid-Playground",
+            "stars": 7
+          }
+        }
+      ],
+      "title": "Technical Info"
+    },
+    {
+      "description": "China",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Solid 中文文档",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2019-07-23T13:22:27Z",
+            "owner": "learnsolid",
+            "repo": "docs",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Solid & IPFS",
+          "description": null,
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "Solid & Authing",
+          "description": null,
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "Filego",
+          "description": "- Decentralized storage platform secured by Solid, Authing & IPFS. | Site | Intro",
+          "children": []
+        }
+      ],
+      "title": "International"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Awesome Self-hosted",
+          "description": "- Locally hosting and managing applications instead of renting from SaaS providers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-08-12T18:50:03Z",
+            "owner": "awesome-selfhosted",
+            "repo": "awesome-selfhosted",
+            "stars": 312283
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome IPFS",
+          "description": "- Useful resources for using IPFS.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-11-13T12:41:43Z",
+            "owner": "ipfs",
+            "repo": "awesome-ipfs",
+            "stars": 4597
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Peer-to-peer",
+          "description": "- A curated list of peer-to-peer resources.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-03-28T09:11:13Z",
+            "owner": "kgryte",
+            "repo": "awesome-peer-to-peer",
+            "stars": 2541
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Decentralized",
+          "description": "- A curated list of decentralized, P2P, and distributed platforms and applications.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-03-28T07:28:03Z",
+            "owner": "decentropy",
+            "repo": "awesome-decentralized",
+            "stars": 206
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Freenet",
+          "description": "- Useful resources for using Freenet.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-05-02T01:07:34Z",
+            "owner": "kustomzone",
+            "repo": "Awesome-Freenet",
+            "stars": 7
+          }
+        }
+      ],
+      "title": "Related Awesomeness"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:17:43.296Z",
+    "original_repository": "kustomzone/awesome-solid",
+    "original_repository_sha": "210370979c3f240baf218f5bc03a6add34bc4e80",
+    "enhanced_repository": "enhansome/enhansome-solid",
+    "enhanced_repository_description": null,
+    "title": "Awesome solid with stars"
+  }
+}
