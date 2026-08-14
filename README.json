@@ -120,7 +120,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-11T02:08:24Z",
+            "last_commit": "2026-08-14T03:11:06Z",
             "owner": "SolidOS",
             "repo": "solid-panes",
             "stars": 106
@@ -219,7 +219,7 @@
             "last_commit": "2026-03-04T16:43:23Z",
             "owner": "digitalbazaar",
             "repo": "jsonld.js",
-            "stars": 1813
+            "stars": 1814
           }
         },
         {
@@ -305,7 +305,7 @@
             "last_commit": "2026-08-12T18:50:03Z",
             "owner": "awesome-selfhosted",
             "repo": "awesome-selfhosted",
-            "stars": 312407
+            "stars": 312641
           }
         },
         {
@@ -319,7 +319,7 @@
             "last_commit": "2025-11-13T12:41:43Z",
             "owner": "ipfs",
             "repo": "awesome-ipfs",
-            "stars": 4597
+            "stars": 4598
           }
         },
         {
@@ -369,7 +369,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T17:51:27.154Z",
+    "last_updated": "2026-08-14T17:45:10.764Z",
     "original_repository": "kustomzone/awesome-solid",
     "original_repository_sha": "210370979c3f240baf218f5bc03a6add34bc4e80",
     "enhanced_repository": "enhansome/enhansome-solid",
