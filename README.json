@@ -120,7 +120,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-14T03:11:06Z",
+            "last_commit": "2026-08-15T08:24:51Z",
             "owner": "SolidOS",
             "repo": "solid-panes",
             "stars": 106
@@ -305,7 +305,7 @@
             "last_commit": "2026-08-12T18:50:03Z",
             "owner": "awesome-selfhosted",
             "repo": "awesome-selfhosted",
-            "stars": 312641
+            "stars": 312847
           }
         },
         {
@@ -319,7 +319,7 @@
             "last_commit": "2025-11-13T12:41:43Z",
             "owner": "ipfs",
             "repo": "awesome-ipfs",
-            "stars": 4598
+            "stars": 4599
           }
         },
         {
@@ -333,7 +333,7 @@
             "last_commit": "2023-03-28T09:11:13Z",
             "owner": "kgryte",
             "repo": "awesome-peer-to-peer",
-            "stars": 2541
+            "stars": 2543
           }
         },
         {
@@ -369,7 +369,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T17:45:10.764Z",
+    "last_updated": "2026-08-15T17:13:39.700Z",
     "original_repository": "kustomzone/awesome-solid",
     "original_repository_sha": "210370979c3f240baf218f5bc03a6add34bc4e80",
     "enhanced_repository": "enhansome/enhansome-solid",
