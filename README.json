@@ -19,7 +19,7 @@
             "last_commit": "2022-08-24T14:54:37Z",
             "owner": "solid",
             "repo": "solid",
-            "stars": 8095
+            "stars": 8094
           }
         },
         {
@@ -302,10 +302,10 @@
           "repo_info": {
             "archived": false,
             "language": null,
-            "last_commit": "2026-08-16T12:09:55Z",
+            "last_commit": "2026-08-17T08:30:25Z",
             "owner": "awesome-selfhosted",
             "repo": "awesome-selfhosted",
-            "stars": 313038
+            "stars": 313229
           }
         },
         {
@@ -333,7 +333,7 @@
             "last_commit": "2023-03-28T09:11:13Z",
             "owner": "kgryte",
             "repo": "awesome-peer-to-peer",
-            "stars": 2543
+            "stars": 2544
           }
         },
         {
@@ -369,7 +369,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T17:12:48.722Z",
+    "last_updated": "2026-08-17T17:19:51.599Z",
     "original_repository": "kustomzone/awesome-solid",
     "original_repository_sha": "210370979c3f240baf218f5bc03a6add34bc4e80",
     "enhanced_repository": "enhansome/enhansome-solid",
