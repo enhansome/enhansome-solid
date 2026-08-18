@@ -19,7 +19,7 @@
             "last_commit": "2022-08-24T14:54:37Z",
             "owner": "solid",
             "repo": "solid",
-            "stars": 8094
+            "stars": 8093
           }
         },
         {
@@ -44,7 +44,7 @@
           "repo_info": {
             "archived": false,
             "language": "HTML",
-            "last_commit": "2026-08-10T23:11:23Z",
+            "last_commit": "2026-08-17T22:43:46Z",
             "owner": "linkeddata",
             "repo": "rdflib.js",
             "stars": 593
@@ -106,7 +106,7 @@
           "repo_info": {
             "archived": false,
             "language": "HTML",
-            "last_commit": "2026-08-10T23:11:23Z",
+            "last_commit": "2026-08-17T22:43:46Z",
             "owner": "linkeddata",
             "repo": "rdflib.js",
             "stars": 593
@@ -120,7 +120,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-15T08:24:51Z",
+            "last_commit": "2026-08-18T09:15:56Z",
             "owner": "SolidOS",
             "repo": "solid-panes",
             "stars": 106
@@ -305,7 +305,7 @@
             "last_commit": "2026-08-17T08:30:25Z",
             "owner": "awesome-selfhosted",
             "repo": "awesome-selfhosted",
-            "stars": 313229
+            "stars": 313460
           }
         },
         {
@@ -369,7 +369,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T17:19:51.599Z",
+    "last_updated": "2026-08-18T17:19:23.770Z",
     "original_repository": "kustomzone/awesome-solid",
     "original_repository_sha": "210370979c3f240baf218f5bc03a6add34bc4e80",
     "enhanced_repository": "enhansome/enhansome-solid",
