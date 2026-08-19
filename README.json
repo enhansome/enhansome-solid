@@ -1,12 +1,7 @@
 {
   "items": [
     {
-      "description": "Solid (derived from \"Social Linked Data\") is a set of conventions and tools for building decentralized social apps based on Linked Data principles. It's modular, extensible, and follows existing W3C standards and protocols. \"Solid is a platform, built using the existing web. It gives every user a choice about where data is stored, which specific people and groups can access select elements, and which apps you use. - It allows you, your family and colleagues, to link and share data with anyone. - It allows people to look at the same data with different apps at the same time.\" Read more of Tim's Open Letter to the community about Solid and Inrupt.",
-      "items": [],
-      "title": "About Solid"
-    },
-    {
-      "description": "Docs",
+      "description": "Docs\nMedia\nArticles",
       "items": [
         {
           "node_type": "item",
@@ -15,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 46769790,
             "language": "HTML",
             "last_commit": "2022-08-24T14:54:37Z",
             "owner": "solid",
@@ -29,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 33550348,
             "language": null,
             "last_commit": "2021-12-02T13:41:58Z",
             "owner": "solid",
@@ -43,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 2976235,
             "language": "HTML",
             "last_commit": "2026-08-17T22:43:46Z",
             "owner": "linkeddata",
@@ -57,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 135399938,
             "language": null,
             "last_commit": "2022-11-19T14:43:23Z",
             "owner": "SolidOS",
@@ -71,6 +70,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 55645875,
             "language": "CSS",
             "last_commit": "2022-07-06T04:11:39Z",
             "owner": "solid",
@@ -91,6 +91,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 24306004,
             "language": "JavaScript",
             "last_commit": "2026-08-08T16:33:39Z",
             "owner": "nodeSolidServer",
@@ -105,6 +106,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 2976235,
             "language": "HTML",
             "last_commit": "2026-08-17T22:43:46Z",
             "owner": "linkeddata",
@@ -119,8 +121,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 58180305,
             "language": "JavaScript",
-            "last_commit": "2026-08-18T09:15:56Z",
+            "last_commit": "2026-08-19T10:39:46Z",
             "owner": "SolidOS",
             "repo": "solid-panes",
             "stars": 106
@@ -133,6 +136,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 156475530,
             "language": "JavaScript",
             "last_commit": "2024-03-19T20:57:32Z",
             "owner": "jeff-zucker",
@@ -147,6 +151,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 110862019,
             "language": "JavaScript",
             "last_commit": "2023-03-02T00:32:10Z",
             "owner": "happybeing",
@@ -158,7 +163,7 @@
       "title": "List of Software"
     },
     {
-      "description": "Apps",
+      "description": "Apps\nEditors\nViewers",
       "items": [
         {
           "node_type": "item",
@@ -167,6 +172,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 154842018,
             "language": "HTML",
             "last_commit": "2019-03-24T13:58:42Z",
             "owner": "pheyvaer",
@@ -181,6 +187,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 153439344,
             "language": "JavaScript",
             "last_commit": "2024-01-22T18:54:57Z",
             "owner": "mark-book",
@@ -195,10 +202,101 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 154347690,
             "language": "JavaScript",
             "last_commit": "2018-12-05T11:19:07Z",
             "owner": "JornWildt",
             "repo": "SolidRC",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenLink's RDF Editor",
+          "description": "- Live RDF document editor.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 45926217,
+            "language": "JavaScript",
+            "last_commit": "2026-01-06T11:45:12Z",
+            "owner": "openlink",
+            "repo": "rdf-editor",
+            "stars": 123
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Warp LDP",
+          "description": "- Warp, the linked data file manager. | Live",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 21471360,
+            "language": "CSS",
+            "last_commit": "2018-10-25T12:34:41Z",
+            "owner": "linkeddata",
+            "repo": "warp",
+            "stars": 59
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Solid IDE",
+          "description": "- Solside, an editor and file manager for Solid data stores. | Live",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 159362383,
+            "language": "CSS",
+            "last_commit": "2023-04-03T15:51:37Z",
+            "owner": "jeff-zucker",
+            "repo": "solid-content-manager",
+            "stars": 33
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sparql Fiddle",
+          "description": "- Run SPARQL queries & procedures from command line or browser. | Live",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 161073930,
+            "language": "JavaScript",
+            "last_commit": "2023-11-28T20:22:44Z",
+            "owner": "jeff-zucker",
+            "repo": "sparql-fiddle",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Combo File Editor",
+          "description": "- File Editor based on Warp/Solside. | Live",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 159167799,
+            "language": "JavaScript",
+            "last_commit": "2018-12-18T16:05:52Z",
+            "owner": "kustomzone",
+            "repo": "solid-editor",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Spoggy4",
+          "description": "- A visualizer/editor for semantic info and Solid filesystems. | Live",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 160105434,
+            "language": "JavaScript",
+            "last_commit": "2018-12-10T10:14:59Z",
+            "owner": "scenaristeur",
+            "repo": "spoggy4",
             "stars": 3
           }
         }
@@ -206,7 +304,43 @@
       "title": "List of Projects"
     },
     {
-      "description": "",
+      "description": "Video\nOther",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "rdflib.js",
+          "description": "- This tutorial will walk you through what rdflib.js can do.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 49784443,
+            "language": null,
+            "last_commit": "2022-04-29T14:08:14Z",
+            "owner": "SolidOS",
+            "repo": "solid-tutorial-rdflib.js",
+            "stars": 35
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Write an Angular Solid App",
+          "description": "- Create a Solid app with Angular Yeoman Generator.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 145594302,
+            "language": "HTML",
+            "last_commit": "2021-05-05T17:48:10Z",
+            "owner": "inrupt-archived",
+            "repo": "generator-solid-angular",
+            "stars": 30
+          }
+        }
+      ],
+      "title": "Tutorials"
+    },
+    {
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -215,11 +349,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 2252664,
             "language": "JavaScript",
             "last_commit": "2026-03-04T16:43:23Z",
             "owner": "digitalbazaar",
             "repo": "jsonld.js",
-            "stars": 1815
+            "stars": 1816
           }
         },
         {
@@ -229,6 +364,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 77492072,
             "language": "Java",
             "last_commit": "2025-05-19T07:14:02Z",
             "owner": "trellis-ldp",
@@ -243,6 +379,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 156364868,
             "language": "JavaScript",
             "last_commit": "2021-12-21T09:19:35Z",
             "owner": "LDflex",
@@ -263,36 +400,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 185049027,
             "language": "HTML",
             "last_commit": "2019-07-23T13:22:27Z",
             "owner": "learnsolid",
             "repo": "docs",
             "stars": 10
           }
-        },
-        {
-          "node_type": "item",
-          "title": "Solid & IPFS",
-          "description": null,
-          "children": []
-        },
-        {
-          "node_type": "item",
-          "title": "Solid & Authing",
-          "description": null,
-          "children": []
-        },
-        {
-          "node_type": "item",
-          "title": "Filego",
-          "description": "- Decentralized storage platform secured by Solid, Authing & IPFS. | Site | Intro",
-          "children": []
         }
       ],
       "title": "International"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -301,11 +421,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 36633370,
             "language": null,
-            "last_commit": "2026-08-17T08:30:25Z",
+            "last_commit": "2026-08-19T10:02:51Z",
             "owner": "awesome-selfhosted",
             "repo": "awesome-selfhosted",
-            "stars": 313460
+            "stars": 313652
           }
         },
         {
@@ -315,6 +436,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 44264666,
             "language": "JavaScript",
             "last_commit": "2025-11-13T12:41:43Z",
             "owner": "ipfs",
@@ -329,6 +451,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 42802743,
             "language": null,
             "last_commit": "2023-03-28T09:11:13Z",
             "owner": "kgryte",
@@ -343,6 +466,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 47941222,
             "language": null,
             "last_commit": "2023-03-28T07:28:03Z",
             "owner": "decentropy",
@@ -357,6 +481,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1153183702,
             "language": null,
             "last_commit": "2026-05-02T01:07:34Z",
             "owner": "kustomzone",
@@ -369,8 +494,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T17:19:23.770Z",
+    "last_updated": "2026-08-19T12:50:36.579Z",
     "original_repository": "kustomzone/awesome-solid",
+    "original_repository_id": 159582172,
     "original_repository_sha": "210370979c3f240baf218f5bc03a6add34bc4e80",
     "enhanced_repository": "enhansome/enhansome-solid",
     "enhanced_repository_description": null,
