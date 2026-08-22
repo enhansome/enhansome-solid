@@ -45,7 +45,7 @@
             "last_commit": "2026-08-20T23:26:20Z",
             "owner": "linkeddata",
             "repo": "rdflib.js",
-            "stars": 593
+            "stars": 594
           }
         },
         {
@@ -111,7 +111,7 @@
             "last_commit": "2026-08-20T23:26:20Z",
             "owner": "linkeddata",
             "repo": "rdflib.js",
-            "stars": 593
+            "stars": 594
           }
         },
         {
@@ -423,10 +423,10 @@
             "archived": false,
             "id": 36633370,
             "language": null,
-            "last_commit": "2026-08-20T18:45:11Z",
+            "last_commit": "2026-08-21T19:00:19Z",
             "owner": "awesome-selfhosted",
             "repo": "awesome-selfhosted",
-            "stars": 314111
+            "stars": 314302
           }
         },
         {
@@ -494,7 +494,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T17:21:01.704Z",
+    "last_updated": "2026-08-22T17:13:24.982Z",
     "original_repository": "kustomzone/awesome-solid",
     "original_repository_id": 159582172,
     "original_repository_sha": "210370979c3f240baf218f5bc03a6add34bc4e80",
