@@ -123,7 +123,7 @@
             "archived": false,
             "id": 58180305,
             "language": "JavaScript",
-            "last_commit": "2026-08-21T02:18:58Z",
+            "last_commit": "2026-08-23T11:55:20Z",
             "owner": "SolidOS",
             "repo": "solid-panes",
             "stars": 106
@@ -423,10 +423,10 @@
             "archived": false,
             "id": 36633370,
             "language": null,
-            "last_commit": "2026-08-21T19:00:19Z",
+            "last_commit": "2026-08-22T18:55:56Z",
             "owner": "awesome-selfhosted",
             "repo": "awesome-selfhosted",
-            "stars": 314302
+            "stars": 314499
           }
         },
         {
@@ -494,7 +494,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T17:13:24.982Z",
+    "last_updated": "2026-08-23T17:13:49.847Z",
     "original_repository": "kustomzone/awesome-solid",
     "original_repository_id": 159582172,
     "original_repository_sha": "210370979c3f240baf218f5bc03a6add34bc4e80",
