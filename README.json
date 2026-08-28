@@ -423,10 +423,10 @@
             "archived": false,
             "id": 36633370,
             "language": null,
-            "last_commit": "2026-08-22T18:55:56Z",
+            "last_commit": "2026-08-27T15:08:33Z",
             "owner": "awesome-selfhosted",
             "repo": "awesome-selfhosted",
-            "stars": 315515
+            "stars": 315631
           }
         },
         {
@@ -441,7 +441,7 @@
             "last_commit": "2025-11-13T12:41:43Z",
             "owner": "ipfs",
             "repo": "awesome-ipfs",
-            "stars": 4605
+            "stars": 4607
           }
         },
         {
@@ -456,7 +456,7 @@
             "last_commit": "2023-03-28T09:11:13Z",
             "owner": "kgryte",
             "repo": "awesome-peer-to-peer",
-            "stars": 2546
+            "stars": 2547
           }
         },
         {
@@ -494,7 +494,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:07:06.522Z",
+    "last_updated": "2026-08-28T01:13:42.807Z",
     "original_repository_info": {
       "archived": false,
       "id": 159582172,
