@@ -10,12 +10,19 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Solid - Re-decentralizing the web (project directory)",
+            "homepage": "https://solidproject.org",
             "id": 46769790,
             "language": "HTML",
+            "license": "MIT",
             "last_commit": "2022-08-24T14:54:37Z",
+            "open_issues": 134,
             "owner": "solid",
             "repo": "solid",
-            "stars": 8092
+            "stars": 8092,
+            "topics": [
+              "communication"
+            ]
           },
           "first_seen": "2026-08-29T00:48:39.458Z"
         },
@@ -26,12 +33,19 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Solid specification draft 0.7.0",
+            "homepage": null,
             "id": 33550348,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2021-12-02T13:41:58Z",
+            "open_issues": 84,
             "owner": "solid",
             "repo": "solid-spec",
-            "stars": 1137
+            "stars": 1137,
+            "topics": [
+              "specification"
+            ]
           },
           "first_seen": "2026-08-29T00:48:39.458Z"
         },
@@ -42,12 +56,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Linked Data API for JavaScript",
+            "homepage": "http://linkeddata.github.io/rdflib.js/doc/",
             "id": 2976235,
             "language": "HTML",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-20T23:26:20Z",
+            "open_issues": 133,
             "owner": "linkeddata",
             "repo": "rdflib.js",
-            "stars": 594
+            "stars": 594,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:48:39.458Z"
         },
@@ -58,12 +77,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "User guide for SolidOS Databrowser Frontend",
+            "homepage": "https://solidos.github.io/userguide/",
             "id": 135399938,
             "language": null,
+            "license": "MIT",
             "last_commit": "2022-11-19T14:43:23Z",
+            "open_issues": 3,
             "owner": "SolidOS",
             "repo": "userguide",
-            "stars": 396
+            "stars": 396,
+            "topics": [
+              "documentation",
+              "running-code"
+            ]
           },
           "first_seen": "2026-08-29T00:48:39.458Z"
         },
@@ -74,12 +101,19 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Homepage for the Solid MIT Project",
+            "homepage": "https://solid.mit.edu",
             "id": 55645875,
             "language": "CSS",
+            "license": "MIT",
             "last_commit": "2022-07-06T04:11:39Z",
+            "open_issues": 11,
             "owner": "solid",
             "repo": "solid.mit.edu",
-            "stars": 20
+            "stars": 20,
+            "topics": [
+              "communication"
+            ]
           },
           "first_seen": "2026-08-29T00:48:39.458Z"
         }
@@ -96,12 +130,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Solid server on top of the file-system in NodeJS",
+            "homepage": "https://solidproject.org/for-developers/pod-server",
             "id": 24306004,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-08T16:33:39Z",
+            "open_issues": 340,
             "owner": "nodeSolidServer",
             "repo": "node-solid-server",
-            "stars": 1796
+            "stars": 1796,
+            "topics": [
+              "running-code"
+            ]
           },
           "first_seen": "2026-08-29T00:48:39.458Z"
         },
@@ -112,12 +153,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Linked Data API for JavaScript",
+            "homepage": "http://linkeddata.github.io/rdflib.js/doc/",
             "id": 2976235,
             "language": "HTML",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-20T23:26:20Z",
+            "open_issues": 133,
             "owner": "linkeddata",
             "repo": "rdflib.js",
-            "stars": 594
+            "stars": 594,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:48:39.458Z"
         },
@@ -128,12 +174,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A set of core solid-compatible apps based on solid-ui",
+            "homepage": null,
             "id": 58180305,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-28T10:47:02Z",
+            "open_issues": 130,
             "owner": "SolidOS",
             "repo": "solid-panes",
-            "stars": 106
+            "stars": 106,
+            "topics": [
+              "javascript",
+              "running-code",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-29T00:48:39.458Z"
         },
@@ -144,12 +199,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Javascript library for creating and managing files and folders in Solid data stores",
+            "homepage": null,
             "id": 156475530,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-03-19T20:57:32Z",
+            "open_issues": 39,
             "owner": "jeff-zucker",
             "repo": "solid-file-client",
-            "stars": 63
+            "stars": 63,
+            "topics": [
+              "linked-data-platform",
+              "solid"
+            ]
           },
           "first_seen": "2026-08-29T00:48:39.458Z"
         },
@@ -160,12 +223,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "SafeNetwork backend for SOLID applications",
+            "homepage": null,
             "id": 110862019,
             "language": "JavaScript",
+            "license": "GPL-3.0",
             "last_commit": "2023-03-02T00:32:10Z",
+            "open_issues": 5,
             "owner": "happybeing",
             "repo": "safenetwork-webapi",
-            "stars": 13
+            "stars": 13,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:48:39.458Z"
         }
@@ -182,12 +250,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A decentralized chess app build on top of Solid.",
+            "homepage": "https://pheyvaer.github.io/solid-chess/",
             "id": 154842018,
             "language": "HTML",
+            "license": "MIT",
             "last_commit": "2019-03-24T13:58:42Z",
+            "open_issues": 22,
             "owner": "pheyvaer",
             "repo": "solid-chess",
-            "stars": 52
+            "stars": 52,
+            "topics": [
+              "chess",
+              "game",
+              "proofofconcept",
+              "solid-app"
+            ]
           },
           "first_seen": "2026-08-29T00:48:39.458Z"
         },
@@ -198,12 +276,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "book mark <-->  mark book -- insane social bookmarking for the solid platform",
+            "homepage": "https://markbook.org/",
             "id": 153439344,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2024-01-22T18:54:57Z",
+            "open_issues": 22,
             "owner": "mark-book",
             "repo": "markbook",
-            "stars": 19
+            "stars": 19,
+            "topics": [
+              "beneficent",
+              "beneficent-app",
+              "solid",
+              "solid-app",
+              "solid-ipfs"
+            ]
           },
           "first_seen": "2026-08-29T00:48:39.458Z"
         },
@@ -214,12 +303,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A journey into building Solid applications",
+            "homepage": null,
             "id": 154347690,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2018-12-05T11:19:07Z",
+            "open_issues": 0,
             "owner": "JornWildt",
             "repo": "SolidRC",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:48:39.458Z"
         },
@@ -230,12 +324,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The OpenLink Structured Data Editor enables editing of RDF documents (in TURTLE notation) stored in a variety of HTTP accessible documents. Actual document access requires the target document is served from a system that supports at least one of the following open standards: Linked Data Platform (LDP), WebDAV, SPARQL 1.1 Update, or the SPARQL Graph Protocol.",
+            "homepage": "http://osde.openlinksw.com/",
             "id": 45926217,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-01-06T11:45:12Z",
+            "open_issues": 5,
             "owner": "openlink",
             "repo": "rdf-editor",
-            "stars": 123
+            "stars": 123,
+            "topics": [
+              "editor",
+              "ldp",
+              "n3",
+              "rdf-triples",
+              "turtle"
+            ]
           },
           "first_seen": "2026-08-29T00:48:39.458Z"
         },
@@ -246,12 +351,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Warp - an LDP file manager",
+            "homepage": "https://linkeddata.github.io/warp/",
             "id": 21471360,
             "language": "CSS",
+            "license": "MIT",
             "last_commit": "2018-10-25T12:34:41Z",
+            "open_issues": 18,
             "owner": "linkeddata",
             "repo": "warp",
-            "stars": 59
+            "stars": 59,
+            "topics": [
+              "solid",
+              "solid-app"
+            ]
           },
           "first_seen": "2026-08-29T00:48:39.458Z"
         },
@@ -262,12 +375,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A syntax-highlighting editor and file manager for Solid data stores.",
+            "homepage": "https://jeff-zucker.github.io/solid-content-manager/",
             "id": 159362383,
             "language": "CSS",
+            "license": "MIT",
             "last_commit": "2023-04-03T15:51:37Z",
+            "open_issues": 13,
             "owner": "jeff-zucker",
             "repo": "solid-content-manager",
-            "stars": 33
+            "stars": 33,
+            "topics": [
+              "linked-data",
+              "solid"
+            ]
           },
           "first_seen": "2026-08-29T00:48:39.458Z"
         },
@@ -278,12 +399,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "a JavaScript SPARQL API and online fiddle",
+            "homepage": null,
             "id": 161073930,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-11-28T20:22:44Z",
+            "open_issues": 2,
             "owner": "jeff-zucker",
             "repo": "sparql-fiddle",
-            "stars": 18
+            "stars": 18,
+            "topics": [
+              "linked-data",
+              "semantic-web",
+              "solid",
+              "sparql"
+            ]
           },
           "first_seen": "2026-08-29T00:48:39.458Z"
         },
@@ -294,12 +425,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Solid file manager & editor.",
+            "homepage": null,
             "id": 159167799,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2018-12-18T16:05:52Z",
+            "open_issues": 0,
             "owner": "kustomzone",
             "repo": "solid-editor",
-            "stars": 4
+            "stars": 4,
+            "topics": [
+              "solid",
+              "unsilod"
+            ]
           },
           "first_seen": "2026-08-29T00:48:39.458Z"
         },
@@ -310,12 +449,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 160105434,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2018-12-10T10:14:59Z",
+            "open_issues": 0,
             "owner": "scenaristeur",
             "repo": "spoggy4",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:48:39.458Z"
         }
@@ -332,12 +476,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tutorials for using rdflib.js",
+            "homepage": null,
             "id": 49784443,
             "language": null,
+            "license": "MIT",
             "last_commit": "2022-04-29T14:08:14Z",
+            "open_issues": 5,
             "owner": "SolidOS",
             "repo": "solid-tutorial-rdflib.js",
-            "stars": 35
+            "stars": 35,
+            "topics": [
+              "running-code"
+            ]
           },
           "first_seen": "2026-08-29T00:48:39.458Z"
         },
@@ -348,12 +499,25 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Generator for Solid Angular applications",
+            "homepage": null,
             "id": 145594302,
             "language": "HTML",
+            "license": "MIT",
             "last_commit": "2021-05-05T17:48:10Z",
+            "open_issues": 21,
             "owner": "inrupt-archived",
             "repo": "generator-solid-angular",
-            "stars": 30
+            "stars": 30,
+            "topics": [
+              "angular",
+              "inrupt",
+              "solid",
+              "starter-kit",
+              "typescript",
+              "yeoman",
+              "yeoman-generator"
+            ]
           },
           "first_seen": "2026-08-29T00:48:39.458Z"
         }
@@ -370,12 +534,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A JSON-LD Processor and API implementation in JavaScript",
+            "homepage": "https://json-ld.org/",
             "id": 2252664,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-03-04T16:43:23Z",
+            "open_issues": 154,
             "owner": "digitalbazaar",
             "repo": "jsonld.js",
-            "stars": 1816
+            "stars": 1816,
+            "topics": [
+              "javascript",
+              "json-ld",
+              "linked-data",
+              "rdf",
+              "semantic-web"
+            ]
           },
           "first_seen": "2026-08-29T00:48:39.458Z"
         },
@@ -386,12 +561,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Trellis is a platform for building scalable Linked Data applications",
+            "homepage": "https://www.trellisldp.org",
             "id": 77492072,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2025-05-19T07:14:02Z",
+            "open_issues": 11,
             "owner": "trellis-ldp",
             "repo": "trellis",
-            "stars": 110
+            "stars": 110,
+            "topics": [
+              "ldp",
+              "linked-data",
+              "microprofile",
+              "rdf",
+              "rest-api",
+              "trellisldp"
+            ]
           },
           "first_seen": "2026-08-29T00:48:39.458Z"
         },
@@ -402,12 +589,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Solid LDflex playground",
+            "homepage": "https://ldflex.github.io/Solid-Playground/",
             "id": 156364868,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2021-12-21T09:19:35Z",
+            "open_issues": 5,
             "owner": "LDflex",
             "repo": "Solid-Playground",
-            "stars": 7
+            "stars": 7,
+            "topics": [
+              "running-code"
+            ]
           },
           "first_seen": "2026-08-29T00:48:39.458Z"
         }
@@ -424,12 +618,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 185049027,
             "language": "HTML",
+            "license": null,
             "last_commit": "2019-07-23T13:22:27Z",
+            "open_issues": 1,
             "owner": "learnsolid",
             "repo": "docs",
-            "stars": 10
+            "stars": 10,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:48:39.458Z"
         }
@@ -446,12 +645,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A list of Free Software network services and web applications which can be hosted on your own servers",
+            "homepage": "https://awesome-selfhosted.net/",
             "id": 36633370,
             "language": null,
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T15:13:31Z",
+            "open_issues": 0,
             "owner": "awesome-selfhosted",
             "repo": "awesome-selfhosted",
-            "stars": 315795
+            "stars": 315834,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "cloud",
+              "free-software",
+              "hosting",
+              "privacy",
+              "self-hosted",
+              "selfhosted"
+            ]
           },
           "first_seen": "2026-08-29T00:48:39.458Z"
         },
@@ -462,12 +675,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Community list of awesome projects, apps, tools, pinning services and more related to IPFS.",
+            "homepage": "https://awesome.ipfs.tech/",
             "id": 44264666,
             "language": "JavaScript",
+            "license": "CC0-1.0",
             "last_commit": "2025-11-13T12:41:43Z",
+            "open_issues": 18,
             "owner": "ipfs",
             "repo": "awesome-ipfs",
-            "stars": 4607
+            "stars": 4607,
+            "topics": [
+              "awesome",
+              "awesome-ipfs",
+              "awesome-list",
+              "ipfs"
+            ]
           },
           "first_seen": "2026-08-29T00:48:39.458Z"
         },
@@ -478,12 +701,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A list of peer-to-peer resources.",
+            "homepage": null,
             "id": 42802743,
             "language": null,
+            "license": "NOASSERTION",
             "last_commit": "2023-03-28T09:11:13Z",
+            "open_issues": 21,
             "owner": "kgryte",
             "repo": "awesome-peer-to-peer",
-            "stars": 2547
+            "stars": 2547,
+            "topics": [
+              "awesome",
+              "p2p",
+              "peer-to-peer",
+              "resources"
+            ]
           },
           "first_seen": "2026-08-29T00:48:39.458Z"
         },
@@ -494,12 +727,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of decentralized, P2P (peer-to-peer), and distributed platforms and applications (\"dapps\").",
+            "homepage": null,
             "id": 47941222,
             "language": null,
+            "license": null,
             "last_commit": "2023-03-28T07:28:03Z",
+            "open_issues": 10,
             "owner": "decentropy",
             "repo": "awesome-decentralized",
-            "stars": 207
+            "stars": 207,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:48:39.458Z"
         },
@@ -510,12 +748,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Awesome decentralized Freenet apps & links. 😎",
+            "homepage": "https://freenet.org/resources/manual/components/",
             "id": 1153183702,
             "language": null,
+            "license": null,
             "last_commit": "2026-05-02T01:07:34Z",
+            "open_issues": 1,
             "owner": "kustomzone",
             "repo": "Awesome-Freenet",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:48:39.458Z"
         }
@@ -524,15 +767,24 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T00:48:39.458Z",
+    "last_updated": "2026-08-29T05:03:16.229Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Awesome list of Solid links & projects. :sunglasses:",
+      "homepage": "https://github.com/topics/unsilod",
       "id": 159582172,
       "language": null,
+      "license": null,
       "last_commit": "2026-02-09T23:15:58Z",
+      "open_issues": 1,
       "owner": "kustomzone",
       "repo": "awesome-solid",
-      "stars": 63
+      "stars": 63,
+      "topics": [
+        "awesome-list",
+        "solid",
+        "unsilod"
+      ]
     },
     "original_repository_sha": "210370979c3f240baf218f5bc03a6add34bc4e80",
     "enhanced_repository": "enhansome/enhansome-solid",
