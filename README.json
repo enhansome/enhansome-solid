@@ -65,7 +65,7 @@
             "open_issues": 133,
             "owner": "linkeddata",
             "repo": "rdflib.js",
-            "stars": 594,
+            "stars": 597,
             "topics": []
           },
           "first_seen": "2026-08-29T00:48:39.458Z"
@@ -162,7 +162,7 @@
             "open_issues": 133,
             "owner": "linkeddata",
             "repo": "rdflib.js",
-            "stars": 594,
+            "stars": 597,
             "topics": []
           },
           "first_seen": "2026-08-29T00:48:39.458Z"
@@ -650,11 +650,11 @@
             "id": 36633370,
             "language": null,
             "license": "NOASSERTION",
-            "last_commit": "2026-08-28T15:13:31Z",
+            "last_commit": "2026-08-30T18:58:26Z",
             "open_issues": 0,
             "owner": "awesome-selfhosted",
             "repo": "awesome-selfhosted",
-            "stars": 315967,
+            "stars": 316169,
             "topics": [
               "awesome",
               "awesome-list",
@@ -684,7 +684,7 @@
             "open_issues": 18,
             "owner": "ipfs",
             "repo": "awesome-ipfs",
-            "stars": 4607,
+            "stars": 4609,
             "topics": [
               "awesome",
               "awesome-ipfs",
@@ -767,7 +767,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T19:34:25.859Z",
+    "last_updated": "2026-08-30T19:35:02.409Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of Solid links & projects. :sunglasses:",
