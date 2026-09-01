@@ -2,7 +2,7 @@
 
 ![Awesome Solid](/img/awesome.png?raw=true)
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 501,708 | 🐛 105 | 📅 2026-08-21
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 501,996 | 🐛 105 | 📅 2026-08-21
 [![Solid](https://img.shields.io/badge/project-Solid-7C4DFF.svg?style=flat-square)](https://github.com/solid/solid) ⚠️ Archived
 
 Solid is an exciting new decentralized hosting project led by Prof. [Tim Berners-Lee](https://en.wikipedia.org/wiki/Tim_Berners-Lee) [![github](/img/github.svg)](https://github.com/timbl), inventor of the World Wide Web. <br>The project aims to radically change the way web applications work today, improving personal data ownership & privacy.
@@ -234,8 +234,8 @@ Solid (derived from "Social Linked Data") is a set of conventions and tools for 
 
 ### Related Awesomeness
 
-* [Awesome Self-hosted](https://github.com/Kickball/awesome-selfhosted) ⭐ 316,371 | 🐛 0 | 📅 2026-08-30 | [![github](/img/github.svg) ](https://github.com/Kickball/awesome-selfhosted) ⭐ 316,371 | 🐛 0 | 📅 2026-08-30 - Locally hosting and managing applications instead of renting from SaaS providers.
-* [Awesome IPFS](https://awesome.ipfs.io/) | [![github](/img/github.svg) ](https://github.com/ipfs/awesome-ipfs) ⭐ 4,610 | 🐛 18 | 🌐 JavaScript | 📅 2025-11-13 - Useful resources for using IPFS.
+* [Awesome Self-hosted](https://github.com/Kickball/awesome-selfhosted) ⭐ 316,527 | 🐛 0 | 📅 2026-09-01 | [![github](/img/github.svg) ](https://github.com/Kickball/awesome-selfhosted) ⭐ 316,527 | 🐛 0 | 📅 2026-09-01 - Locally hosting and managing applications instead of renting from SaaS providers.
+* [Awesome IPFS](https://awesome.ipfs.io/) | [![github](/img/github.svg) ](https://github.com/ipfs/awesome-ipfs) ⭐ 4,612 | 🐛 18 | 🌐 JavaScript | 📅 2025-11-13 - Useful resources for using IPFS.
 * [Awesome Peer-to-peer](https://github.com/kgryte/awesome-peer-to-peer) ⭐ 2,547 | 🐛 21 | 📅 2023-03-28 | [![github](/img/github.svg) ](https://github.com/kgryte/awesome-peer-to-peer) ⭐ 2,547 | 🐛 21 | 📅 2023-03-28 - A curated list of peer-to-peer resources.
 * [Awesome Decentralized](https://github.com/steve-vincent/awesome-decentralized) ⭐ 207 | 🐛 10 | 📅 2023-03-28 | [![github](/img/github.svg) ](https://github.com/steve-vincent/awesome-decentralized) ⭐ 207 | 🐛 10 | 📅 2023-03-28 - A curated list of decentralized, P2P, and distributed platforms and applications.
 * [Awesome Freenet](https://github.com/kustomzone/Awesome-Freenet) ⭐ 7 | 🐛 1 | 📅 2026-05-02 | [![github](/img/github.svg) ](https://github.com/kustomzone/Awesome-Freenet) ⭐ 7 | 🐛 1 | 📅 2026-05-02 - Useful resources for using Freenet.
@@ -244,4 +244,4 @@ Solid (derived from "Social Linked Data") is a set of conventions and tools for 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-31._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-01._
