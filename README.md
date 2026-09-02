@@ -2,7 +2,7 @@
 
 ![Awesome Solid](/img/awesome.png?raw=true)
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 501,996 | 🐛 105 | 📅 2026-08-21
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 502,352 | 🐛 105 | 📅 2026-09-02
 [![Solid](https://img.shields.io/badge/project-Solid-7C4DFF.svg?style=flat-square)](https://github.com/solid/solid) ⚠️ Archived
 
 Solid is an exciting new decentralized hosting project led by Prof. [Tim Berners-Lee](https://en.wikipedia.org/wiki/Tim_Berners-Lee) [![github](/img/github.svg)](https://github.com/timbl), inventor of the World Wide Web. <br>The project aims to radically change the way web applications work today, improving personal data ownership & privacy.
@@ -39,7 +39,7 @@ Solid (derived from "Social Linked Data") is a set of conventions and tools for 
 
 * [Solid Github](https://github.com/solid/solid) ⚠️ Archived | [![github](/img/github.svg) ](https://github.com/solid/solid) ⚠️ Archived - Re-decentralizing the web. (project directory)
 * [Solid Specs](https://github.com/solid/solid-spec) ⚠️ Archived | [![github](/img/github.svg) ](https://github.com/solid/solid-spec) ⚠️ Archived - The Solid spec and architecture.
-* [Linked Data API](http://linkeddata.github.io/rdflib.js/doc/) | [![github](/img/github.svg) ](https://github.com/linkeddata/rdflib.js) ⭐ 597 | 🐛 133 | 🌐 HTML | 📅 2026-08-20 - Docs for the rdflib.js Linked Data API.
+* [Linked Data API](http://linkeddata.github.io/rdflib.js/doc/) | [![github](/img/github.svg) ](https://github.com/linkeddata/rdflib.js) ⭐ 597 | 🐛 134 | 🌐 HTML | 📅 2026-09-02 - Docs for the rdflib.js Linked Data API.
 * [Data Browser Userguide](https://github.com/solid/userguide) ⭐ 396 | 🐛 3 | 📅 2022-11-19 | [![github](/img/github.svg) ](https://github.com/solid/userguide) ⭐ 396 | 🐛 3 | 📅 2022-11-19 - Userguide for Solid's default data browser.
 * [Solid MIT](https://solid.mit.edu/) | [![github](/img/github.svg) ](https://github.com/solid/solid.mit.edu) ⚠️ Archived - What is Solid?
 * [Solid Docs](https://solid.inrupt.com/docs/getting-started) - Getting started!
@@ -73,7 +73,7 @@ Solid (derived from "Social Linked Data") is a set of conventions and tools for 
 *Open Source*
 
 * [Solid's Node Server](https://github.com/solid/node-solid-server) ⭐ 1,796 | 🐛 340 | 🌐 JavaScript | 📅 2026-08-08 | [![github](/img/github.svg) ](https://github.com/solid/node-solid-server) ⭐ 1,796 | 🐛 340 | 🌐 JavaScript | 📅 2026-08-08 - Solid server on top of the file-system in NodeJS.
-* [Linked Data API](https://github.com/linkeddata/rdflib.js) ⭐ 597 | 🐛 133 | 🌐 HTML | 📅 2026-08-20 | [![github](/img/github.svg) ](https://github.com/linkeddata/rdflib.js) ⭐ 597 | 🐛 133 | 🌐 HTML | 📅 2026-08-20 - the Linked Data API for JavaScript.
+* [Linked Data API](https://github.com/linkeddata/rdflib.js) ⭐ 597 | 🐛 134 | 🌐 HTML | 📅 2026-09-02 | [![github](/img/github.svg) ](https://github.com/linkeddata/rdflib.js) ⭐ 597 | 🐛 134 | 🌐 HTML | 📅 2026-09-02 - the Linked Data API for JavaScript.
 * [Solid Panes](https://github.com/solid/solid-panes) ⭐ 106 | 🐛 129 | 🌐 JavaScript | 📅 2026-08-31 | [![github](/img/github.svg) ](https://github.com/solid/solid-panes) ⭐ 106 | 🐛 129 | 🌐 JavaScript | 📅 2026-08-31 - A set of core solid-compatible apps based on solid-ui.
 * [Solid File Client](https://github.com/jeff-zucker/solid-file-client) ⭐ 63 | 🐛 39 | 🌐 JavaScript | 📅 2024-03-19 | [![github](/img/github.svg) ](https://github.com/jeff-zucker/solid-file-client) ⭐ 63 | 🐛 39 | 🌐 JavaScript | 📅 2024-03-19 - Javascript library for creating and managing files & folders in Solid data stores.
 * [Safe Network Backend](https://github.com/theWebalyst/safenetwork-webapi) ⭐ 13 | 🐛 5 | 🌐 JavaScript | 📅 2023-03-02 | [![github](/img/github.svg) ](https://github.com/theWebalyst/safenetwork-webapi) ⭐ 13 | 🐛 5 | 🌐 JavaScript | 📅 2023-03-02 - Safe Network backend for Solid apps.
@@ -234,7 +234,7 @@ Solid (derived from "Social Linked Data") is a set of conventions and tools for 
 
 ### Related Awesomeness
 
-* [Awesome Self-hosted](https://github.com/Kickball/awesome-selfhosted) ⭐ 316,527 | 🐛 0 | 📅 2026-09-01 | [![github](/img/github.svg) ](https://github.com/Kickball/awesome-selfhosted) ⭐ 316,527 | 🐛 0 | 📅 2026-09-01 - Locally hosting and managing applications instead of renting from SaaS providers.
+* [Awesome Self-hosted](https://github.com/Kickball/awesome-selfhosted) ⭐ 316,729 | 🐛 0 | 📅 2026-09-02 | [![github](/img/github.svg) ](https://github.com/Kickball/awesome-selfhosted) ⭐ 316,729 | 🐛 0 | 📅 2026-09-02 - Locally hosting and managing applications instead of renting from SaaS providers.
 * [Awesome IPFS](https://awesome.ipfs.io/) | [![github](/img/github.svg) ](https://github.com/ipfs/awesome-ipfs) ⭐ 4,612 | 🐛 18 | 🌐 JavaScript | 📅 2025-11-13 - Useful resources for using IPFS.
 * [Awesome Peer-to-peer](https://github.com/kgryte/awesome-peer-to-peer) ⭐ 2,547 | 🐛 21 | 📅 2023-03-28 | [![github](/img/github.svg) ](https://github.com/kgryte/awesome-peer-to-peer) ⭐ 2,547 | 🐛 21 | 📅 2023-03-28 - A curated list of peer-to-peer resources.
 * [Awesome Decentralized](https://github.com/steve-vincent/awesome-decentralized) ⭐ 207 | 🐛 10 | 📅 2023-03-28 | [![github](/img/github.svg) ](https://github.com/steve-vincent/awesome-decentralized) ⭐ 207 | 🐛 10 | 📅 2023-03-28 - A curated list of decentralized, P2P, and distributed platforms and applications.
@@ -244,4 +244,4 @@ Solid (derived from "Social Linked Data") is a set of conventions and tools for 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-02._
