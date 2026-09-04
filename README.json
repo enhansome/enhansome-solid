@@ -179,8 +179,8 @@
             "id": 58180305,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-08-31T08:48:05Z",
-            "open_issues": 129,
+            "last_commit": "2026-09-04T17:35:32Z",
+            "open_issues": 131,
             "owner": "SolidOS",
             "repo": "solid-panes",
             "stars": 106,
@@ -650,11 +650,11 @@
             "id": 36633370,
             "language": null,
             "license": "NOASSERTION",
-            "last_commit": "2026-09-02T11:41:59Z",
+            "last_commit": "2026-09-04T16:57:49Z",
             "open_issues": 0,
             "owner": "awesome-selfhosted",
             "repo": "awesome-selfhosted",
-            "stars": 316956,
+            "stars": 317140,
             "topics": [
               "awesome",
               "awesome-list",
@@ -710,7 +710,7 @@
             "open_issues": 21,
             "owner": "kgryte",
             "repo": "awesome-peer-to-peer",
-            "stars": 2547,
+            "stars": 2548,
             "topics": [
               "awesome",
               "p2p",
@@ -767,7 +767,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T19:31:36.984Z",
+    "last_updated": "2026-09-04T19:14:02.277Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of Solid links & projects. :sunglasses:",
