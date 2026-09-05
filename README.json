@@ -19,7 +19,7 @@
             "open_issues": 134,
             "owner": "solid",
             "repo": "solid",
-            "stars": 8091,
+            "stars": 8092,
             "topics": [
               "communication"
             ]
@@ -179,8 +179,8 @@
             "id": 58180305,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-04T17:35:32Z",
-            "open_issues": 131,
+            "last_commit": "2026-09-05T08:33:47Z",
+            "open_issues": 130,
             "owner": "SolidOS",
             "repo": "solid-panes",
             "stars": 106,
@@ -650,11 +650,11 @@
             "id": 36633370,
             "language": null,
             "license": "NOASSERTION",
-            "last_commit": "2026-09-04T16:57:49Z",
+            "last_commit": "2026-09-05T10:51:19Z",
             "open_issues": 0,
             "owner": "awesome-selfhosted",
             "repo": "awesome-selfhosted",
-            "stars": 317140,
+            "stars": 317320,
             "topics": [
               "awesome",
               "awesome-list",
@@ -767,7 +767,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T19:14:02.277Z",
+    "last_updated": "2026-09-05T18:41:35.464Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of Solid links & projects. :sunglasses:",
