@@ -19,7 +19,7 @@
             "open_issues": 134,
             "owner": "solid",
             "repo": "solid",
-            "stars": 8092,
+            "stars": 8091,
             "topics": [
               "communication"
             ]
@@ -540,7 +540,7 @@
             "language": "JavaScript",
             "license": "NOASSERTION",
             "last_commit": "2026-03-04T16:43:23Z",
-            "open_issues": 154,
+            "open_issues": 155,
             "owner": "digitalbazaar",
             "repo": "jsonld.js",
             "stars": 1816,
@@ -650,11 +650,11 @@
             "id": 36633370,
             "language": null,
             "license": "NOASSERTION",
-            "last_commit": "2026-09-05T10:51:19Z",
+            "last_commit": "2026-09-06T10:18:28Z",
             "open_issues": 0,
             "owner": "awesome-selfhosted",
             "repo": "awesome-selfhosted",
-            "stars": 317320,
+            "stars": 317500,
             "topics": [
               "awesome",
               "awesome-list",
@@ -681,7 +681,7 @@
             "language": "JavaScript",
             "license": "CC0-1.0",
             "last_commit": "2025-11-13T12:41:43Z",
-            "open_issues": 18,
+            "open_issues": 19,
             "owner": "ipfs",
             "repo": "awesome-ipfs",
             "stars": 4610,
@@ -767,7 +767,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T18:41:35.464Z",
+    "last_updated": "2026-09-06T18:45:29.819Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of Solid links & projects. :sunglasses:",
