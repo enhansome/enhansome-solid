@@ -543,7 +543,7 @@
             "open_issues": 155,
             "owner": "digitalbazaar",
             "repo": "jsonld.js",
-            "stars": 1816,
+            "stars": 1815,
             "topics": [
               "javascript",
               "json-ld",
@@ -654,7 +654,7 @@
             "open_issues": 0,
             "owner": "awesome-selfhosted",
             "repo": "awesome-selfhosted",
-            "stars": 317971,
+            "stars": 318181,
             "topics": [
               "awesome",
               "awesome-list",
@@ -710,7 +710,7 @@
             "open_issues": 20,
             "owner": "kgryte",
             "repo": "awesome-peer-to-peer",
-            "stars": 2548,
+            "stars": 2547,
             "topics": [
               "awesome",
               "p2p",
@@ -767,7 +767,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T19:40:56.340Z",
+    "last_updated": "2026-09-09T19:34:11.307Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of Solid links & projects. :sunglasses:",
