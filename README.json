@@ -540,7 +540,7 @@
             "language": "JavaScript",
             "license": "NOASSERTION",
             "last_commit": "2026-03-04T16:43:23Z",
-            "open_issues": 155,
+            "open_issues": 157,
             "owner": "digitalbazaar",
             "repo": "jsonld.js",
             "stars": 1815,
@@ -654,7 +654,7 @@
             "open_issues": 0,
             "owner": "awesome-selfhosted",
             "repo": "awesome-selfhosted",
-            "stars": 318759,
+            "stars": 318986,
             "topics": [
               "awesome",
               "awesome-list",
@@ -684,7 +684,7 @@
             "open_issues": 19,
             "owner": "ipfs",
             "repo": "awesome-ipfs",
-            "stars": 4610,
+            "stars": 4609,
             "topics": [
               "awesome",
               "awesome-ipfs",
@@ -767,7 +767,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T18:53:06.803Z",
+    "last_updated": "2026-09-13T19:08:25.553Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of Solid links & projects. :sunglasses:",
