@@ -62,7 +62,7 @@
             "language": "HTML",
             "license": "NOASSERTION",
             "last_commit": "2026-09-10T02:51:14Z",
-            "open_issues": 137,
+            "open_issues": 138,
             "owner": "linkeddata",
             "repo": "rdflib.js",
             "stars": 597,
@@ -159,7 +159,7 @@
             "language": "HTML",
             "license": "NOASSERTION",
             "last_commit": "2026-09-10T02:51:14Z",
-            "open_issues": 137,
+            "open_issues": 138,
             "owner": "linkeddata",
             "repo": "rdflib.js",
             "stars": 597,
@@ -654,7 +654,7 @@
             "open_issues": 0,
             "owner": "awesome-selfhosted",
             "repo": "awesome-selfhosted",
-            "stars": 318986,
+            "stars": 319233,
             "topics": [
               "awesome",
               "awesome-list",
@@ -684,7 +684,7 @@
             "open_issues": 19,
             "owner": "ipfs",
             "repo": "awesome-ipfs",
-            "stars": 4609,
+            "stars": 4610,
             "topics": [
               "awesome",
               "awesome-ipfs",
@@ -710,7 +710,7 @@
             "open_issues": 20,
             "owner": "kgryte",
             "repo": "awesome-peer-to-peer",
-            "stars": 2547,
+            "stars": 2548,
             "topics": [
               "awesome",
               "p2p",
@@ -733,7 +733,7 @@
             "language": null,
             "license": null,
             "last_commit": "2023-03-28T07:28:03Z",
-            "open_issues": 10,
+            "open_issues": 11,
             "owner": "decentropy",
             "repo": "awesome-decentralized",
             "stars": 207,
@@ -767,7 +767,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T19:08:25.553Z",
+    "last_updated": "2026-09-14T20:41:32.691Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of Solid links & projects. :sunglasses:",
