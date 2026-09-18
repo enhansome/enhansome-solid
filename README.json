@@ -19,7 +19,7 @@
             "open_issues": 134,
             "owner": "solid",
             "repo": "solid",
-            "stars": 8090,
+            "stars": 8091,
             "topics": [
               "communication"
             ]
@@ -61,8 +61,8 @@
             "id": 2976235,
             "language": "HTML",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-16T18:15:28Z",
-            "open_issues": 140,
+            "last_commit": "2026-09-18T18:26:29Z",
+            "open_issues": 138,
             "owner": "linkeddata",
             "repo": "rdflib.js",
             "stars": 597,
@@ -158,8 +158,8 @@
             "id": 2976235,
             "language": "HTML",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-16T18:15:28Z",
-            "open_issues": 140,
+            "last_commit": "2026-09-18T18:26:29Z",
+            "open_issues": 138,
             "owner": "linkeddata",
             "repo": "rdflib.js",
             "stars": 597,
@@ -650,11 +650,11 @@
             "id": 36633370,
             "language": null,
             "license": "NOASSERTION",
-            "last_commit": "2026-09-15T18:43:10Z",
+            "last_commit": "2026-09-18T07:51:28Z",
             "open_issues": 0,
             "owner": "awesome-selfhosted",
             "repo": "awesome-selfhosted",
-            "stars": 319888,
+            "stars": 320135,
             "topics": [
               "awesome",
               "awesome-list",
@@ -767,7 +767,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T19:57:21.096Z",
+    "last_updated": "2026-09-18T19:20:37.821Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of Solid links & projects. :sunglasses:",
