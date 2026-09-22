@@ -61,7 +61,7 @@
             "id": 2976235,
             "language": "HTML",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-18T19:30:28Z",
+            "last_commit": "2026-09-21T22:43:48Z",
             "open_issues": 138,
             "owner": "linkeddata",
             "repo": "rdflib.js",
@@ -158,7 +158,7 @@
             "id": 2976235,
             "language": "HTML",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-18T19:30:28Z",
+            "last_commit": "2026-09-21T22:43:48Z",
             "open_issues": 138,
             "owner": "linkeddata",
             "repo": "rdflib.js",
@@ -179,7 +179,7 @@
             "id": 58180305,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-09T22:33:09Z",
+            "last_commit": "2026-09-22T18:32:00Z",
             "open_issues": 132,
             "owner": "SolidOS",
             "repo": "solid-panes",
@@ -543,7 +543,7 @@
             "open_issues": 157,
             "owner": "digitalbazaar",
             "repo": "jsonld.js",
-            "stars": 1814,
+            "stars": 1815,
             "topics": [
               "javascript",
               "json-ld",
@@ -654,7 +654,7 @@
             "open_issues": 0,
             "owner": "awesome-selfhosted",
             "repo": "awesome-selfhosted",
-            "stars": 320798,
+            "stars": 321036,
             "topics": [
               "awesome",
               "awesome-list",
@@ -684,7 +684,7 @@
             "open_issues": 22,
             "owner": "ipfs",
             "repo": "awesome-ipfs",
-            "stars": 4610,
+            "stars": 4609,
             "topics": [
               "awesome",
               "awesome-ipfs",
@@ -767,7 +767,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T20:42:28.243Z",
+    "last_updated": "2026-09-22T19:58:22.935Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of Solid links & projects. :sunglasses:",
