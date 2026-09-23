@@ -136,7 +136,7 @@
             "language": "JavaScript",
             "license": "NOASSERTION",
             "last_commit": "2026-08-08T16:33:39Z",
-            "open_issues": 340,
+            "open_issues": 341,
             "owner": "nodeSolidServer",
             "repo": "node-solid-server",
             "stars": 1795,
@@ -179,7 +179,7 @@
             "id": 58180305,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-22T18:32:00Z",
+            "last_commit": "2026-09-23T02:47:02Z",
             "open_issues": 132,
             "owner": "SolidOS",
             "repo": "solid-panes",
@@ -650,11 +650,11 @@
             "id": 36633370,
             "language": null,
             "license": "NOASSERTION",
-            "last_commit": "2026-09-21T09:58:44Z",
+            "last_commit": "2026-09-23T17:59:29Z",
             "open_issues": 0,
             "owner": "awesome-selfhosted",
             "repo": "awesome-selfhosted",
-            "stars": 321036,
+            "stars": 321267,
             "topics": [
               "awesome",
               "awesome-list",
@@ -684,7 +684,7 @@
             "open_issues": 22,
             "owner": "ipfs",
             "repo": "awesome-ipfs",
-            "stars": 4609,
+            "stars": 4610,
             "topics": [
               "awesome",
               "awesome-ipfs",
@@ -767,7 +767,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T19:58:22.935Z",
+    "last_updated": "2026-09-23T19:55:14.084Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of Solid links & projects. :sunglasses:",
