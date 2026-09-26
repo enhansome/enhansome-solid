@@ -2,7 +2,7 @@
 
 ![Awesome Solid](/img/awesome.png?raw=true)
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 510,394 | 🐛 107 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 510,909 | 🐛 107 | 📅 2026-09-02
 [![Solid](https://img.shields.io/badge/project-Solid-7C4DFF.svg?style=flat-square)](https://github.com/solid/solid) ⚠️ Archived
 
 Solid is an exciting new decentralized hosting project led by Prof. [Tim Berners-Lee](https://en.wikipedia.org/wiki/Tim_Berners-Lee) [![github](/img/github.svg)](https://github.com/timbl), inventor of the World Wide Web. <br>The project aims to radically change the way web applications work today, improving personal data ownership & privacy.
@@ -193,7 +193,7 @@ Solid (derived from "Social Linked Data") is a set of conventions and tools for 
 ### Technical Info
 
 * [JSON-LD Playground](https://json-ld.org/playground-dev/) - A test area for JSON-LD markup using [jsonld.js](https://github.com/digitalbazaar/jsonld.js) ⭐ 1,815 | 🐛 157 | 🌐 JavaScript | 📅 2026-03-04 | [![github](/img/github.svg) ](https://github.com/digitalbazaar/jsonld.js) ⭐ 1,815 | 🐛 157 | 🌐 JavaScript | 📅 2026-03-04
-* [Trellis LDP](https://github.com/trellis-ldp/trellis) ⭐ 110 | 🐛 11 | 🌐 Java | 📅 2025-05-19 | [![github](/img/github.svg) ](https://github.com/trellis-ldp/trellis) ⭐ 110 | 🐛 11 | 🌐 Java | 📅 2025-05-19 - Trellis is a platform for building scalable Linked Data applications.
+* [Trellis LDP](https://github.com/trellis-ldp/trellis) ⭐ 111 | 🐛 11 | 🌐 Java | 📅 2025-05-19 | [![github](/img/github.svg) ](https://github.com/trellis-ldp/trellis) ⭐ 111 | 🐛 11 | 🌐 Java | 📅 2025-05-19 - Trellis is a platform for building scalable Linked Data applications.
 * [LDflex Playground](https://github.com/solid/ldflex-playground) ⭐ 7 | 🐛 5 | 🌐 JavaScript | 📅 2021-12-21 | [![github](/img/github.svg) ](https://github.com/solid/ldflex-playground) ⭐ 7 | 🐛 5 | 🌐 JavaScript | 📅 2021-12-21 - Solid LDflex playground. | [Live](https://solid.github.io/ldflex-playground/)
 * [Getting Started with RDFLib](https://rdflib.readthedocs.io/en/4.2.2/gettingstarted.html) - Latest rdflib 4.2.2 documentation.
 * [RDF JavaScript Libraries](https://github.com/rdfjs) | [![github](/img/github.svg) ](https://github.com/rdfjs) - W3C RDFJS Community Group.
@@ -234,7 +234,7 @@ Solid (derived from "Social Linked Data") is a set of conventions and tools for 
 
 ### Related Awesomeness
 
-* [Awesome Self-hosted](https://github.com/Kickball/awesome-selfhosted) ⭐ 321,742 | 🐛 0 | 📅 2026-09-25 | [![github](/img/github.svg) ](https://github.com/Kickball/awesome-selfhosted) ⭐ 321,742 | 🐛 0 | 📅 2026-09-25 - Locally hosting and managing applications instead of renting from SaaS providers.
+* [Awesome Self-hosted](https://github.com/Kickball/awesome-selfhosted) ⭐ 321,968 | 🐛 0 | 📅 2026-09-26 | [![github](/img/github.svg) ](https://github.com/Kickball/awesome-selfhosted) ⭐ 321,968 | 🐛 0 | 📅 2026-09-26 - Locally hosting and managing applications instead of renting from SaaS providers.
 * [Awesome IPFS](https://awesome.ipfs.io/) | [![github](/img/github.svg) ](https://github.com/ipfs/awesome-ipfs) ⭐ 4,611 | 🐛 22 | 🌐 JavaScript | 📅 2025-11-13 - Useful resources for using IPFS.
 * [Awesome Peer-to-peer](https://github.com/kgryte/awesome-peer-to-peer) ⭐ 2,549 | 🐛 21 | 📅 2023-03-28 | [![github](/img/github.svg) ](https://github.com/kgryte/awesome-peer-to-peer) ⭐ 2,549 | 🐛 21 | 📅 2023-03-28 - A curated list of peer-to-peer resources.
 * [Awesome Decentralized](https://github.com/steve-vincent/awesome-decentralized) ⭐ 207 | 🐛 11 | 📅 2023-03-28 | [![github](/img/github.svg) ](https://github.com/steve-vincent/awesome-decentralized) ⭐ 207 | 🐛 11 | 📅 2023-03-28 - A curated list of decentralized, P2P, and distributed platforms and applications.
@@ -244,4 +244,4 @@ Solid (derived from "Social Linked Data") is a set of conventions and tools for 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-26._
