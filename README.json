@@ -61,7 +61,7 @@
             "id": 2976235,
             "language": "HTML",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-21T22:43:48Z",
+            "last_commit": "2026-09-29T07:04:48Z",
             "open_issues": 138,
             "owner": "linkeddata",
             "repo": "rdflib.js",
@@ -158,7 +158,7 @@
             "id": 2976235,
             "language": "HTML",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-21T22:43:48Z",
+            "last_commit": "2026-09-29T07:04:48Z",
             "open_issues": 138,
             "owner": "linkeddata",
             "repo": "rdflib.js",
@@ -177,10 +177,10 @@
             "description": "A set of core solid-compatible apps based on solid-ui",
             "homepage": null,
             "id": 58180305,
-            "language": "JavaScript",
+            "language": "HTML",
             "license": "MIT",
-            "last_commit": "2026-09-27T12:34:48Z",
-            "open_issues": 131,
+            "last_commit": "2026-09-29T17:53:58Z",
+            "open_issues": 123,
             "owner": "SolidOS",
             "repo": "solid-panes",
             "stars": 106,
@@ -543,7 +543,7 @@
             "open_issues": 157,
             "owner": "digitalbazaar",
             "repo": "jsonld.js",
-            "stars": 1815,
+            "stars": 1814,
             "topics": [
               "javascript",
               "json-ld",
@@ -650,11 +650,11 @@
             "id": 36633370,
             "language": null,
             "license": "NOASSERTION",
-            "last_commit": "2026-09-26T10:20:27Z",
+            "last_commit": "2026-09-29T10:54:43Z",
             "open_issues": 0,
             "owner": "awesome-selfhosted",
             "repo": "awesome-selfhosted",
-            "stars": 322480,
+            "stars": 322705,
             "topics": [
               "awesome",
               "awesome-list",
@@ -736,7 +736,7 @@
             "open_issues": 11,
             "owner": "decentropy",
             "repo": "awesome-decentralized",
-            "stars": 207,
+            "stars": 208,
             "topics": []
           },
           "first_seen": "2026-08-29T00:48:39.458Z"
@@ -767,7 +767,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T22:21:55.946Z",
+    "last_updated": "2026-09-29T21:11:02.256Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of Solid links & projects. :sunglasses:",
