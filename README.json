@@ -65,7 +65,7 @@
             "open_issues": 138,
             "owner": "linkeddata",
             "repo": "rdflib.js",
-            "stars": 597,
+            "stars": 598,
             "topics": []
           },
           "first_seen": "2026-08-29T00:48:39.458Z"
@@ -162,7 +162,7 @@
             "open_issues": 138,
             "owner": "linkeddata",
             "repo": "rdflib.js",
-            "stars": 597,
+            "stars": 598,
             "topics": []
           },
           "first_seen": "2026-08-29T00:48:39.458Z"
@@ -180,7 +180,7 @@
             "language": "HTML",
             "license": "MIT",
             "last_commit": "2026-09-30T11:14:31Z",
-            "open_issues": 123,
+            "open_issues": 124,
             "owner": "SolidOS",
             "repo": "solid-panes",
             "stars": 106,
@@ -650,11 +650,11 @@
             "id": 36633370,
             "language": null,
             "license": "NOASSERTION",
-            "last_commit": "2026-10-01T10:41:04Z",
+            "last_commit": "2026-10-02T16:22:23Z",
             "open_issues": 0,
             "owner": "awesome-selfhosted",
             "repo": "awesome-selfhosted",
-            "stars": 323196,
+            "stars": 323406,
             "topics": [
               "awesome",
               "awesome-list",
@@ -767,7 +767,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T21:30:43.352Z",
+    "last_updated": "2026-10-02T21:06:09.408Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of Solid links & projects. :sunglasses:",
