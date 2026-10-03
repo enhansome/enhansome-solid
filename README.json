@@ -614,7 +614,7 @@
         {
           "node_type": "item",
           "title": "Solid 中文文档",
-          "description": null,
+          "description": "learnsolid/docs",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -654,7 +654,7 @@
             "open_issues": 0,
             "owner": "awesome-selfhosted",
             "repo": "awesome-selfhosted",
-            "stars": 323406,
+            "stars": 323482,
             "topics": [
               "awesome",
               "awesome-list",
@@ -710,7 +710,7 @@
             "open_issues": 21,
             "owner": "kgryte",
             "repo": "awesome-peer-to-peer",
-            "stars": 2549,
+            "stars": 2550,
             "topics": [
               "awesome",
               "p2p",
@@ -767,7 +767,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T21:06:09.408Z",
+    "last_updated": "2026-10-03T05:08:33.419Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of Solid links & projects. :sunglasses:",
