@@ -180,7 +180,7 @@
             "language": "HTML",
             "license": "MIT",
             "last_commit": "2026-10-03T21:32:06Z",
-            "open_issues": 122,
+            "open_issues": 121,
             "owner": "SolidOS",
             "repo": "solid-panes",
             "stars": 106,
@@ -333,7 +333,7 @@
             "open_issues": 5,
             "owner": "openlink",
             "repo": "rdf-editor",
-            "stars": 124,
+            "stars": 123,
             "topics": [
               "editor",
               "ldp",
@@ -650,11 +650,11 @@
             "id": 36633370,
             "language": null,
             "license": "NOASSERTION",
-            "last_commit": "2026-10-04T14:07:07Z",
+            "last_commit": "2026-10-06T18:10:01Z",
             "open_issues": 0,
             "owner": "awesome-selfhosted",
             "repo": "awesome-selfhosted",
-            "stars": 324258,
+            "stars": 324381,
             "topics": [
               "awesome",
               "awesome-list",
@@ -684,7 +684,7 @@
             "open_issues": 22,
             "owner": "ipfs",
             "repo": "awesome-ipfs",
-            "stars": 4612,
+            "stars": 4611,
             "topics": [
               "awesome",
               "awesome-ipfs",
@@ -767,7 +767,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:40:51.111Z",
+    "last_updated": "2026-10-06T21:24:14.633Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of Solid links & projects. :sunglasses:",
