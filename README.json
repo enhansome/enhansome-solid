@@ -19,7 +19,7 @@
             "open_issues": 134,
             "owner": "solid",
             "repo": "solid",
-            "stars": 8090,
+            "stars": 8091,
             "topics": [
               "communication"
             ]
@@ -180,7 +180,7 @@
             "language": "HTML",
             "license": "MIT",
             "last_commit": "2026-10-07T18:31:35Z",
-            "open_issues": 121,
+            "open_issues": 120,
             "owner": "SolidOS",
             "repo": "solid-panes",
             "stars": 106,
@@ -654,7 +654,7 @@
             "open_issues": 0,
             "owner": "awesome-selfhosted",
             "repo": "awesome-selfhosted",
-            "stars": 324638,
+            "stars": 324691,
             "topics": [
               "awesome",
               "awesome-list",
@@ -681,10 +681,10 @@
             "language": "JavaScript",
             "license": "CC0-1.0",
             "last_commit": "2025-11-13T12:41:43Z",
-            "open_issues": 23,
+            "open_issues": 20,
             "owner": "ipfs",
             "repo": "awesome-ipfs",
-            "stars": 4612,
+            "stars": 4613,
             "topics": [
               "awesome",
               "awesome-ipfs",
@@ -710,7 +710,7 @@
             "open_issues": 21,
             "owner": "kgryte",
             "repo": "awesome-peer-to-peer",
-            "stars": 2550,
+            "stars": 2552,
             "topics": [
               "awesome",
               "p2p",
@@ -767,7 +767,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T21:42:33.282Z",
+    "last_updated": "2026-10-08T21:40:25.579Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of Solid links & projects. :sunglasses:",
