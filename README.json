@@ -19,7 +19,7 @@
             "open_issues": 133,
             "owner": "solid",
             "repo": "solid",
-            "stars": 8090,
+            "stars": 8089,
             "topics": [
               "communication"
             ]
@@ -42,7 +42,7 @@
             "open_issues": 84,
             "owner": "solid",
             "repo": "solid-spec",
-            "stars": 1137,
+            "stars": 1136,
             "topics": [
               "specification"
             ]
@@ -543,7 +543,7 @@
             "open_issues": 157,
             "owner": "digitalbazaar",
             "repo": "jsonld.js",
-            "stars": 1814,
+            "stars": 1815,
             "topics": [
               "javascript",
               "json-ld",
@@ -650,11 +650,11 @@
             "id": 36633370,
             "language": null,
             "license": "NOASSERTION",
-            "last_commit": "2026-10-09T20:26:11Z",
+            "last_commit": "2026-10-10T10:35:27Z",
             "open_issues": 0,
             "owner": "awesome-selfhosted",
             "repo": "awesome-selfhosted",
-            "stars": 324962,
+            "stars": 325267,
             "topics": [
               "awesome",
               "awesome-list",
@@ -684,7 +684,7 @@
             "open_issues": 20,
             "owner": "ipfs",
             "repo": "awesome-ipfs",
-            "stars": 4613,
+            "stars": 4612,
             "topics": [
               "awesome",
               "awesome-ipfs",
@@ -710,7 +710,7 @@
             "open_issues": 21,
             "owner": "kgryte",
             "repo": "awesome-peer-to-peer",
-            "stars": 2552,
+            "stars": 2553,
             "topics": [
               "awesome",
               "p2p",
@@ -767,7 +767,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T21:24:32.335Z",
+    "last_updated": "2026-10-10T20:24:29.147Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of Solid links & projects. :sunglasses:",
