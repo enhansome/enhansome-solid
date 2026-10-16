@@ -179,7 +179,7 @@
             "id": 58180305,
             "language": "HTML",
             "license": "MIT",
-            "last_commit": "2026-10-14T12:19:32Z",
+            "last_commit": "2026-10-16T08:24:50Z",
             "open_issues": 112,
             "owner": "SolidOS",
             "repo": "solid-panes",
@@ -543,7 +543,7 @@
             "open_issues": 157,
             "owner": "digitalbazaar",
             "repo": "jsonld.js",
-            "stars": 1815,
+            "stars": 1817,
             "topics": [
               "javascript",
               "json-ld",
@@ -650,11 +650,11 @@
             "id": 36633370,
             "language": null,
             "license": "NOASSERTION",
-            "last_commit": "2026-10-15T11:18:31Z",
+            "last_commit": "2026-10-16T14:01:06Z",
             "open_issues": 0,
             "owner": "awesome-selfhosted",
             "repo": "awesome-selfhosted",
-            "stars": 326917,
+            "stars": 327273,
             "topics": [
               "awesome",
               "awesome-list",
@@ -710,7 +710,7 @@
             "open_issues": 21,
             "owner": "kgryte",
             "repo": "awesome-peer-to-peer",
-            "stars": 2555,
+            "stars": 2556,
             "topics": [
               "awesome",
               "p2p",
@@ -767,7 +767,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T20:07:52.075Z",
+    "last_updated": "2026-10-16T19:46:10.608Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of Solid links & projects. :sunglasses:",
