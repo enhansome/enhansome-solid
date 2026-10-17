@@ -19,7 +19,7 @@
             "open_issues": 133,
             "owner": "solid",
             "repo": "solid",
-            "stars": 8088,
+            "stars": 8087,
             "topics": [
               "communication"
             ]
@@ -42,7 +42,7 @@
             "open_issues": 84,
             "owner": "solid",
             "repo": "solid-spec",
-            "stars": 1136,
+            "stars": 1135,
             "topics": [
               "specification"
             ]
@@ -232,7 +232,7 @@
             "open_issues": 5,
             "owner": "happybeing",
             "repo": "safenetwork-webapi",
-            "stars": 13,
+            "stars": 12,
             "topics": []
           },
           "first_seen": "2026-08-29T00:48:39.458Z"
@@ -654,7 +654,7 @@
             "open_issues": 0,
             "owner": "awesome-selfhosted",
             "repo": "awesome-selfhosted",
-            "stars": 327273,
+            "stars": 327620,
             "topics": [
               "awesome",
               "awesome-list",
@@ -684,7 +684,7 @@
             "open_issues": 24,
             "owner": "ipfs",
             "repo": "awesome-ipfs",
-            "stars": 4614,
+            "stars": 4616,
             "topics": [
               "awesome",
               "awesome-ipfs",
@@ -767,7 +767,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T19:46:10.608Z",
+    "last_updated": "2026-10-17T18:57:45.490Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of Solid links & projects. :sunglasses:",
