@@ -179,8 +179,8 @@
             "id": 58180305,
             "language": "HTML",
             "license": "MIT",
-            "last_commit": "2026-10-25T06:51:30Z",
-            "open_issues": 113,
+            "last_commit": "2026-10-26T11:00:18Z",
+            "open_issues": 112,
             "owner": "SolidOS",
             "repo": "solid-panes",
             "stars": 106,
@@ -654,7 +654,7 @@
             "open_issues": 0,
             "owner": "awesome-selfhosted",
             "repo": "awesome-selfhosted",
-            "stars": 330355,
+            "stars": 330699,
             "topics": [
               "awesome",
               "awesome-list",
@@ -684,7 +684,7 @@
             "open_issues": 24,
             "owner": "ipfs",
             "repo": "awesome-ipfs",
-            "stars": 4618,
+            "stars": 4620,
             "topics": [
               "awesome",
               "awesome-ipfs",
@@ -710,7 +710,7 @@
             "open_issues": 22,
             "owner": "kgryte",
             "repo": "awesome-peer-to-peer",
-            "stars": 2558,
+            "stars": 2559,
             "topics": [
               "awesome",
               "p2p",
@@ -733,7 +733,7 @@
             "language": null,
             "license": null,
             "last_commit": "2023-03-28T07:28:03Z",
-            "open_issues": 11,
+            "open_issues": 12,
             "owner": "decentropy",
             "repo": "awesome-decentralized",
             "stars": 208,
@@ -767,7 +767,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T19:24:12.094Z",
+    "last_updated": "2026-10-26T21:16:21.689Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of Solid links & projects. :sunglasses:",
