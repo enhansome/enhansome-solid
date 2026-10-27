@@ -86,7 +86,7 @@
             "open_issues": 3,
             "owner": "SolidOS",
             "repo": "userguide",
-            "stars": 396,
+            "stars": 395,
             "topics": [
               "documentation",
               "running-code"
@@ -179,8 +179,8 @@
             "id": 58180305,
             "language": "HTML",
             "license": "MIT",
-            "last_commit": "2026-10-26T11:00:18Z",
-            "open_issues": 112,
+            "last_commit": "2026-10-27T11:25:28Z",
+            "open_issues": 113,
             "owner": "SolidOS",
             "repo": "solid-panes",
             "stars": 106,
@@ -654,7 +654,7 @@
             "open_issues": 0,
             "owner": "awesome-selfhosted",
             "repo": "awesome-selfhosted",
-            "stars": 330699,
+            "stars": 331058,
             "topics": [
               "awesome",
               "awesome-list",
@@ -767,7 +767,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-26T21:16:21.689Z",
+    "last_updated": "2026-10-27T21:03:17.495Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of Solid links & projects. :sunglasses:",
