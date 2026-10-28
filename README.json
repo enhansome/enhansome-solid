@@ -650,11 +650,11 @@
             "id": 36633370,
             "language": null,
             "license": "NOASSERTION",
-            "last_commit": "2026-10-22T14:44:35Z",
+            "last_commit": "2026-10-27T22:58:35Z",
             "open_issues": 0,
             "owner": "awesome-selfhosted",
             "repo": "awesome-selfhosted",
-            "stars": 331058,
+            "stars": 331405,
             "topics": [
               "awesome",
               "awesome-list",
@@ -767,7 +767,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T21:03:17.495Z",
+    "last_updated": "2026-10-28T21:27:33.744Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of Solid links & projects. :sunglasses:",
