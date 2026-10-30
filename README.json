@@ -19,7 +19,7 @@
             "open_issues": 134,
             "owner": "solid",
             "repo": "solid",
-            "stars": 8088,
+            "stars": 8087,
             "topics": [
               "communication"
             ]
@@ -179,8 +179,8 @@
             "id": 58180305,
             "language": "HTML",
             "license": "MIT",
-            "last_commit": "2026-10-29T09:32:50Z",
-            "open_issues": 113,
+            "last_commit": "2026-10-30T09:55:10Z",
+            "open_issues": 111,
             "owner": "SolidOS",
             "repo": "solid-panes",
             "stars": 106,
@@ -654,7 +654,7 @@
             "open_issues": 0,
             "owner": "awesome-selfhosted",
             "repo": "awesome-selfhosted",
-            "stars": 331789,
+            "stars": 332105,
             "topics": [
               "awesome",
               "awesome-list",
@@ -684,7 +684,7 @@
             "open_issues": 24,
             "owner": "ipfs",
             "repo": "awesome-ipfs",
-            "stars": 4620,
+            "stars": 4621,
             "topics": [
               "awesome",
               "awesome-ipfs",
@@ -710,7 +710,7 @@
             "open_issues": 22,
             "owner": "kgryte",
             "repo": "awesome-peer-to-peer",
-            "stars": 2559,
+            "stars": 2558,
             "topics": [
               "awesome",
               "p2p",
@@ -767,7 +767,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T21:29:31.436Z",
+    "last_updated": "2026-10-30T21:16:00.894Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of Solid links & projects. :sunglasses:",
