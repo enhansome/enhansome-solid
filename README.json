@@ -19,7 +19,7 @@
             "open_issues": 133,
             "owner": "solid",
             "repo": "solid",
-            "stars": 8086,
+            "stars": 8085,
             "topics": [
               "communication"
             ]
@@ -136,10 +136,10 @@
             "language": "JavaScript",
             "license": "NOASSERTION",
             "last_commit": "2026-08-08T16:33:39Z",
-            "open_issues": 342,
+            "open_issues": 341,
             "owner": "nodeSolidServer",
             "repo": "node-solid-server",
-            "stars": 1796,
+            "stars": 1797,
             "topics": [
               "running-code"
             ]
@@ -179,8 +179,8 @@
             "id": 58180305,
             "language": "HTML",
             "license": "MIT",
-            "last_commit": "2026-11-08T09:30:00Z",
-            "open_issues": 97,
+            "last_commit": "2026-11-10T00:08:53Z",
+            "open_issues": 100,
             "owner": "SolidOS",
             "repo": "solid-panes",
             "stars": 106,
@@ -333,7 +333,7 @@
             "open_issues": 5,
             "owner": "openlink",
             "repo": "rdf-editor",
-            "stars": 123,
+            "stars": 124,
             "topics": [
               "editor",
               "ldp",
@@ -654,7 +654,7 @@
             "open_issues": 0,
             "owner": "awesome-selfhosted",
             "repo": "awesome-selfhosted",
-            "stars": 335128,
+            "stars": 335506,
             "topics": [
               "awesome",
               "awesome-list",
@@ -767,7 +767,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T20:54:43.998Z",
+    "last_updated": "2026-11-10T00:30:25.175Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of Solid links & projects. :sunglasses:",
