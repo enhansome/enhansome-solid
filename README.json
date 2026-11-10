@@ -19,7 +19,7 @@
             "open_issues": 133,
             "owner": "solid",
             "repo": "solid",
-            "stars": 8085,
+            "stars": 8086,
             "topics": [
               "communication"
             ]
@@ -65,7 +65,7 @@
             "open_issues": 142,
             "owner": "linkeddata",
             "repo": "rdflib.js",
-            "stars": 598,
+            "stars": 599,
             "topics": []
           },
           "first_seen": "2026-08-29T00:48:39.458Z"
@@ -162,7 +162,7 @@
             "open_issues": 142,
             "owner": "linkeddata",
             "repo": "rdflib.js",
-            "stars": 598,
+            "stars": 599,
             "topics": []
           },
           "first_seen": "2026-08-29T00:48:39.458Z"
@@ -179,8 +179,8 @@
             "id": 58180305,
             "language": "HTML",
             "license": "MIT",
-            "last_commit": "2026-11-10T00:08:53Z",
-            "open_issues": 100,
+            "last_commit": "2026-11-10T09:02:16Z",
+            "open_issues": 103,
             "owner": "SolidOS",
             "repo": "solid-panes",
             "stars": 106,
@@ -540,10 +540,10 @@
             "language": "JavaScript",
             "license": "NOASSERTION",
             "last_commit": "2026-03-04T16:43:23Z",
-            "open_issues": 162,
+            "open_issues": 163,
             "owner": "digitalbazaar",
             "repo": "jsonld.js",
-            "stars": 1817,
+            "stars": 1818,
             "topics": [
               "javascript",
               "json-ld",
@@ -654,7 +654,7 @@
             "open_issues": 0,
             "owner": "awesome-selfhosted",
             "repo": "awesome-selfhosted",
-            "stars": 335506,
+            "stars": 335799,
             "topics": [
               "awesome",
               "awesome-list",
@@ -767,7 +767,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T00:30:25.175Z",
+    "last_updated": "2026-11-10T22:05:23.168Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of Solid links & projects. :sunglasses:",
