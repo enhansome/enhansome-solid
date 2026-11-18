@@ -139,7 +139,7 @@
             "open_issues": 341,
             "owner": "nodeSolidServer",
             "repo": "node-solid-server",
-            "stars": 1798,
+            "stars": 1799,
             "topics": [
               "running-code"
             ]
@@ -179,7 +179,7 @@
             "id": 58180305,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-16T18:34:39Z",
+            "last_commit": "2026-11-18T18:33:33Z",
             "open_issues": 98,
             "owner": "SolidOS",
             "repo": "solid-panes",
@@ -654,7 +654,7 @@
             "open_issues": 0,
             "owner": "awesome-selfhosted",
             "repo": "awesome-selfhosted",
-            "stars": 338094,
+            "stars": 338380,
             "topics": [
               "awesome",
               "awesome-list",
@@ -710,7 +710,7 @@
             "open_issues": 23,
             "owner": "kgryte",
             "repo": "awesome-peer-to-peer",
-            "stars": 2565,
+            "stars": 2566,
             "topics": [
               "awesome",
               "p2p",
@@ -767,7 +767,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T23:42:14.311Z",
+    "last_updated": "2026-11-18T23:13:19.136Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of Solid links & projects. :sunglasses:",
