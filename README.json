@@ -19,7 +19,7 @@
             "open_issues": 133,
             "owner": "solid",
             "repo": "solid",
-            "stars": 8086,
+            "stars": 8085,
             "topics": [
               "communication"
             ]
@@ -65,7 +65,7 @@
             "open_issues": 144,
             "owner": "linkeddata",
             "repo": "rdflib.js",
-            "stars": 600,
+            "stars": 599,
             "topics": []
           },
           "first_seen": "2026-08-29T00:48:39.458Z"
@@ -83,7 +83,7 @@
             "language": null,
             "license": "MIT",
             "last_commit": "2022-11-19T14:43:23Z",
-            "open_issues": 3,
+            "open_issues": 4,
             "owner": "SolidOS",
             "repo": "userguide",
             "stars": 396,
@@ -162,7 +162,7 @@
             "open_issues": 144,
             "owner": "linkeddata",
             "repo": "rdflib.js",
-            "stars": 600,
+            "stars": 599,
             "topics": []
           },
           "first_seen": "2026-08-29T00:48:39.458Z"
@@ -179,8 +179,8 @@
             "id": 58180305,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-18T18:33:33Z",
-            "open_issues": 98,
+            "last_commit": "2026-11-19T18:14:28Z",
+            "open_issues": 99,
             "owner": "SolidOS",
             "repo": "solid-panes",
             "stars": 106,
@@ -482,7 +482,7 @@
             "language": null,
             "license": "MIT",
             "last_commit": "2022-04-29T14:08:14Z",
-            "open_issues": 5,
+            "open_issues": 6,
             "owner": "SolidOS",
             "repo": "solid-tutorial-rdflib.js",
             "stars": 35,
@@ -543,7 +543,7 @@
             "open_issues": 163,
             "owner": "digitalbazaar",
             "repo": "jsonld.js",
-            "stars": 1819,
+            "stars": 1818,
             "topics": [
               "javascript",
               "json-ld",
@@ -654,7 +654,7 @@
             "open_issues": 0,
             "owner": "awesome-selfhosted",
             "repo": "awesome-selfhosted",
-            "stars": 338380,
+            "stars": 338675,
             "topics": [
               "awesome",
               "awesome-list",
@@ -681,7 +681,7 @@
             "language": "JavaScript",
             "license": "CC0-1.0",
             "last_commit": "2025-11-13T12:41:43Z",
-            "open_issues": 25,
+            "open_issues": 21,
             "owner": "ipfs",
             "repo": "awesome-ipfs",
             "stars": 4631,
@@ -707,7 +707,7 @@
             "language": null,
             "license": "NOASSERTION",
             "last_commit": "2023-03-28T09:11:13Z",
-            "open_issues": 23,
+            "open_issues": 21,
             "owner": "kgryte",
             "repo": "awesome-peer-to-peer",
             "stars": 2566,
@@ -733,7 +733,7 @@
             "language": null,
             "license": null,
             "last_commit": "2023-03-28T07:28:03Z",
-            "open_issues": 12,
+            "open_issues": 9,
             "owner": "decentropy",
             "repo": "awesome-decentralized",
             "stars": 208,
@@ -767,7 +767,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T23:13:19.136Z",
+    "last_updated": "2026-11-19T23:21:09.273Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of Solid links & projects. :sunglasses:",
