@@ -139,7 +139,7 @@
             "open_issues": 341,
             "owner": "nodeSolidServer",
             "repo": "node-solid-server",
-            "stars": 1799,
+            "stars": 1800,
             "topics": [
               "running-code"
             ]
@@ -179,8 +179,8 @@
             "id": 58180305,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-24T23:47:30Z",
-            "open_issues": 106,
+            "last_commit": "2026-11-26T00:45:18Z",
+            "open_issues": 105,
             "owner": "SolidOS",
             "repo": "solid-panes",
             "stars": 107,
@@ -540,7 +540,7 @@
             "language": "JavaScript",
             "license": "NOASSERTION",
             "last_commit": "2026-03-04T16:43:23Z",
-            "open_issues": 163,
+            "open_issues": 165,
             "owner": "digitalbazaar",
             "repo": "jsonld.js",
             "stars": 1819,
@@ -650,11 +650,11 @@
             "id": 36633370,
             "language": null,
             "license": "NOASSERTION",
-            "last_commit": "2026-11-22T15:24:53Z",
+            "last_commit": "2026-11-25T21:13:27Z",
             "open_issues": 0,
             "owner": "awesome-selfhosted",
             "repo": "awesome-selfhosted",
-            "stars": 340205,
+            "stars": 340494,
             "topics": [
               "awesome",
               "awesome-list",
@@ -710,7 +710,7 @@
             "open_issues": 21,
             "owner": "kgryte",
             "repo": "awesome-peer-to-peer",
-            "stars": 2568,
+            "stars": 2569,
             "topics": [
               "awesome",
               "p2p",
@@ -767,7 +767,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T01:12:12.870Z",
+    "last_updated": "2026-11-26T00:47:01.246Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of Solid links & projects. :sunglasses:",
