@@ -19,7 +19,7 @@
             "open_issues": 133,
             "owner": "solid",
             "repo": "solid",
-            "stars": 8084,
+            "stars": 8083,
             "topics": [
               "communication"
             ]
@@ -180,7 +180,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-11-26T00:58:04Z",
-            "open_issues": 104,
+            "open_issues": 103,
             "owner": "SolidOS",
             "repo": "solid-panes",
             "stars": 107,
@@ -654,7 +654,7 @@
             "open_issues": 0,
             "owner": "awesome-selfhosted",
             "repo": "awesome-selfhosted",
-            "stars": 340818,
+            "stars": 341121,
             "topics": [
               "awesome",
               "awesome-list",
@@ -767,7 +767,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-27T00:53:57.820Z",
+    "last_updated": "2026-11-28T00:18:25.345Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of Solid links & projects. :sunglasses:",
